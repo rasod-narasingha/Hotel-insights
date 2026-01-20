@@ -1,74 +1,54 @@
-🏨 Hotel Insights Dashboard
+# 🏨 Hotel Insights Dashboard  
+### *Data-Driven Hotel Performance Analysis*
 
-An interactive Hotel Insights Dashboard built using Power BI and MySQL to analyze hotel performance and improve business decision-making.
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi">
+  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql">
+  <img src="https://img.shields.io/badge/Data-Analytics-green?style=for-the-badge">
+</p>
 
-🚀 Project Overview
+---
 
-This project visualizes hotel data to provide meaningful insights such as:
+## 📌 Project Description
 
-Occupancy rates
+**Hotel Insights Dashboard** is a data analytics project designed to provide deep insights into hotel performance using **Power BI** and **MySQL**.
 
-Revenue trends
+This dashboard helps hotel management teams:
 
-Booking patterns
+✔ Understand booking patterns  
+✔ Track occupancy rates  
+✔ Analyze revenue trends  
+✔ Improve business strategies  
+✔ Make data-driven decisions  
 
-Customer segmentation
+---
 
-Performance comparison by room type and season
+## 🛠 Technologies Used
 
-🛠 Technologies Used
+| Tool | Purpose |
+|------|---------|
+| 🟡 Power BI | Dashboard & visualization |
+| 🐬 MySQL | Database management |
+| 📊 SQL | Data extraction & transformation |
 
-🟡 Power BI – Data visualization & dashboard design
+---
 
-🐬 MySQL – Database management
+## ✨ Key Features
 
-📊 SQL Queries – Data extraction & transformation
+✔ Interactive visuals  
+✔ Date & room filters  
+✔ Revenue tracking  
+✔ Occupancy analysis  
+✔ Customer segmentation  
+✔ KPI indicators  
 
-📈 Features
+---
 
-✔ Interactive dashboards
-✔ Real-time performance tracking
-✔ Filter by date, room type & location
-✔ Revenue & occupancy analysis
-✔ Easy-to-understand KPIs & charts
+## ⚙ Workflow
 
-🗂 Dataset
-
-Data stored in MySQL database including:
-
-Booking details
-
-Customer information
-
-Room types
-
-Revenue data
-
-Check-in & check-out records
-
-⚙ How It Works
-
-Hotel data stored in MySQL
-
-Power BI connects to database
-
-Data cleaned & transformed
-
-Dashboard visuals created
-
-Business insights generated
-
-📌 Future Improvements
-
-Add forecasting & prediction models
-
-Automate data refresh
-
-Cloud database integration
-
-Web-based analytics version
-
-🤝 Contributing
-
-Contributions are welcome!
-Fork the repo and submit a pull request.
+```mermaid
+graph LR
+A[MySQL Database] --> B[Data Cleaning]
+B --> C[Power BI]
+C --> D[Interactive Dashboard]
+D --> E[Business Insights]
