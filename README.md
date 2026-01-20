@@ -39,8 +39,7 @@ This dashboard helps hotel management teams:
 ✔ Date & room filters  
 ✔ Revenue tracking  
 ✔ Occupancy analysis  
-✔ Customer segmentation  
-✔ KPI indicators  
+
 
 ---
 
